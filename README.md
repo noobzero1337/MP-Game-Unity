@@ -1,4 +1,4 @@
-# Mp Game
+# MP Game
 
 ## Installation
 
