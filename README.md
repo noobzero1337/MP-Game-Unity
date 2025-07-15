@@ -30,5 +30,10 @@
 6. Nikmati permainan setelah Anda menemukan Aplikasi Game MP di dalam folder build dan folder Game MP.
    <img width="694" height="229" alt="image" src="https://github.com/user-attachments/assets/0deb5cc1-3ff1-4488-902b-a526b5689932" />
 
+## Documentation
+<img width="1365" height="767" alt="main menu" src="https://github.com/user-attachments/assets/6d4de74f-c978-4476-b55c-69a247a422ec" />
+<img width="1365" height="767" alt="math game (button)" src="https://github.com/user-attachments/assets/5ffb136a-234b-452f-9da1-84b27ee63a0b" />
+<img width="1365" height="767" alt="parkour game (2)" src="https://github.com/user-attachments/assets/6a3ef112-ef25-4214-acc3-b2820359133b" />
+<img width="1365" height="767" alt="parkour game (3)" src="https://github.com/user-attachments/assets/257cefa9-65d4-458c-be12-d0f9b5cf3e0d" />
 
 #### Made by noobzero1337 a.k.a Fajrin Alifian
