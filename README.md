@@ -32,13 +32,15 @@
 
 ## Documentation
 
-<img width="1365" height="767" alt="main menu" src="https://github.com/user-attachments/assets/6d4de74f-c978-4476-b55c-69a247a422ec" /> <img width="1365" height="767" alt="math game (button)" src="https://github.com/user-attachments/assets/5ffb136a-234b-452f-9da1-84b27ee63a0b" />
+<img width="765" height="567" alt="main menu" src="https://github.com/user-attachments/assets/6d4de74f-c978-4476-b55c-69a247a422ec" /> 
+<img width="765" height="567" alt="math game (button)" src="https://github.com/user-attachments/assets/5ffb136a-234b-452f-9da1-84b27ee63a0b" />
+<img width="765" height="567" alt="finished math" src="https://github.com/user-attachments/assets/c296950e-02f1-438c-810b-d6fcfa78e824" /> 
+<img width="765" height="567" alt="game over math" src="https://github.com/user-attachments/assets/1fbef8b5-1020-417e-8431-22bcfe371e11" />
+<img width="765" height="567" alt="parkour game (2)" src="https://github.com/user-attachments/assets/6a3ef112-ef25-4214-acc3-b2820359133b" /> 
+<img width="765" height="567" alt="parkour game (3)" src="https://github.com/user-attachments/assets/257cefa9-65d4-458c-be12-d0f9b5cf3e0d" />
+<img width="765" height="394" alt="finished parkour" src="https://github.com/user-attachments/assets/4b5229a2-fb62-4225-b530-4d41d93b7a6f" /> 
+<img width="765" height="567" alt="game over parkour" src="https://github.com/user-attachments/assets/90547f94-16ac-4867-b090-0c485d8a6a9a" />
 
-<img width="1365" height="767" alt="finished math" src="https://github.com/user-attachments/assets/c296950e-02f1-438c-810b-d6fcfa78e824" /> <img width="1365" height="767" alt="game over math" src="https://github.com/user-attachments/assets/1fbef8b5-1020-417e-8431-22bcfe371e11" />
-
-<img width="1365" height="594" alt="finished parkour" src="https://github.com/user-attachments/assets/4b5229a2-fb62-4225-b530-4d41d93b7a6f" /> <img width="1365" height="767" alt="game over parkour" src="https://github.com/user-attachments/assets/90547f94-16ac-4867-b090-0c485d8a6a9a" />
-
-<img width="1365" height="767" alt="parkour game (2)" src="https://github.com/user-attachments/assets/6a3ef112-ef25-4214-acc3-b2820359133b" /> <img width="1365" height="767" alt="parkour game (3)" src="https://github.com/user-attachments/assets/257cefa9-65d4-458c-be12-d0f9b5cf3e0d" />
 
 
 #### Made by noobzero1337 a.k.a Fajrin Alifian
